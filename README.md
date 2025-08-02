@@ -19,28 +19,28 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahAli16&theme=radical&margin-w=10&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahAli16&theme=flat&margin-w=10&no-frame=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahAli16&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahAli16&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahAli16&show_icons=true&theme=radical&hide_border=true)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahAli16&show_icons=true&theme=default&hide_border=true)
 
 ---
 
 ## 🧠 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAli16&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAli16&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🌐 Visitor Count
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=AbdullahAli16&label=Visitors&color=blueviolet&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=AbdullahAli16&label=Visitors&color=gray&style=flat)
