@@ -8,12 +8,11 @@
 
 🔍 I'm still exploring specific domains like Machine Learning and Cybersecurity to find where my passion lies.
 
-📬 You can reach me at:  
-📧 [abdullah139200481@gmail.com](mailto:abdullah139200481@gmail.com)  
+📬 Reach me at: [abdullah139200481@gmail.com](mailto:abdullah139200481@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdullahali16)
 
 🌱 Currently working on: Python projects and consistency.  
-📌 Fun fact: I recently completed my first Python project using help from ChatGPT
+📌 Fun fact: I went from web dev to AI just because I loved the idea of teaching machines to think!
 
 ---
 
