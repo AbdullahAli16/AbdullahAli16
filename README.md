@@ -9,7 +9,7 @@
 🔍 I'm still exploring specific domains like Machine Learning and Cybersecurity to find where my passion lies.
 
 📬 You can reach me at:  
-📧 abdullah139200481@gmail.com  
+📧 [abdullah139200481@gmail.com](mailto:abdullah139200481@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdullahali16)
 
 🌱 Currently working on: Python projects and consistency.  
