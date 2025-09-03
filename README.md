@@ -5,12 +5,13 @@
 </p>
 
 
-🎓 3rd-year Software Engineering student at the University of Sindh — CGPA: 3.6.
-🐍 Completed the **#100DaysOfCode** challenge — now building Python projects to strengthen my foundation.  
-🤖 Interested in **AI**, and wishing to pursue a career in **Machine Learning**.  
-🌱 Currently focused on: **Python projects** & developing strong problem-solving skills.  
+🎓 3rd-year Software Engineering student — CGPA 3.6  
+🐍 Completed **#100DaysOfCode**, now building Python projects for a solid foundation  
+🤖 Interested in **AI** and aiming for a career in **Machine Learning**  
+🌱 Focused on: **Python projects** & sharpening problem-solving skills  
 📬 Reach me at: [abdullah.ali.devx@gmail.com](mailto:abdullah.ali.devx@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdullahali16)  
+
 
 ---
 
