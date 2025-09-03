@@ -5,7 +5,7 @@
 </p>
 
 
-🎓 3rd-year Software Engineering student at the University of Sindh (Batch 2K23) — currently among the top of my class with a CGPA of 3.6.  
+🎓 3rd-year Software Engineering student at the University of Sindh — CGPA: 3.6
 🐍 Completed the **#100DaysOfCode** challenge — now building Python projects to strengthen my foundation.  
 🤖 Interested in **AI**, and wishing to pursue a career in **Machine Learning**.  
 🌱 Currently focused on: **Python projects** & developing strong problem-solving skills.  
