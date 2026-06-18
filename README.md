@@ -1,41 +1,46 @@
-# Hey there! I'm Abdullah Ali 👋
+# Hey there! I'm Abdullah Ali 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdullahAli16&label=Profile%20Views&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="profile views"/>
 </p>
 
+🎓 Final-year Software Engineering student — University of Sindh.
+ Python Developer focused on **AI Engineering**
+ Building **RAG Pipelines**, **LLM-powered APIs**, and **FastAPI** backends
 
-🎓 3rd-year Software Engineering student — CGPA 3.6  
-🐍 Learning Intermediate Python and building projects for practice   
-🤖 Interested in **AI** and aiming for a career in **Machine Learning**  
-🌱 Focused on: **Python projects** & sharpening problem-solving skills  
-📬 Reach me at: [abdullah.ali.devx@gmail.com](mailto:abdullah.ali.devx@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdullahali16)  
-
+📬 Reach me at: [abdullah.ali.devx@gmail.com](mailto:abdullah.ali.devx@gmail.com) <br>
+ [LinkedIn](https://www.linkedin.com/in/abdullahali16) · 
+ [HuggingFace](https://huggingface.co/AbdullahAli16)
 
 ---
 
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2E8B57?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-
 
 ---
 
+## 🚀 Featured Project
 
-## 📌 Upcoming goals:  
-- Build more **real-world Python projects** to strengthen core concepts.  
-- Transition into **Machine Learning fundamentals**.  
-- Explore **Fundamental data frameworks** like Numpy & Pandas.  
-- Keep sharing progress and projects on GitHub.  
+### 📄 Document Chatbot — [Live Demo](https://abdullahali16-document-chatbot.hf.space/docs) | [GitHub](https://github.com/AbdullahAli16)
+
+Built a full RAG pipeline from scratch — no LangChain:
+- PDF extraction → chunking → embeddings (all-MiniLM-L6-v2) → FAISS vector search
+- Streaming LLM responses via HuggingFace InferenceClient
+- REST API with FastAPI, containerized with Docker, deployed on HuggingFace Spaces
+
+---
+
+## 📌 Current Focus
+
+- 🧠 Deepening LLM integration & prompt engineering
+- 🏗️ Building production-ready AI microservices
 
 ---
 
